@@ -1,0 +1,16 @@
+{
+  "name": "react-trick",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "budo index.js --live"
+  },
+  "dependencies": {
+    "budo": "^10.0.3",
+    "html-attributes": "^1.1.0",
+    "html-tag-names": "^1.1.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
