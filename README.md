@@ -1,7 +1,9 @@
 _Yet another "react minus jsx" thing_
 
 `git clone https://github.com/pbrandt1/react-experiment.git && cd react-experiment`
+
 `yarn`
+
 `yarn start`
 
 
